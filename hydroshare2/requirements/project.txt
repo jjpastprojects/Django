@@ -1,7 +1,7 @@
 Django==1.5.1
 GDAL
 GnuPGInterface
-Mako==0.7.3
+Mako==1.2.2
 MarkupSafe==0.15
 Mezzanine==1.4.3
 PAM==0.4.2
