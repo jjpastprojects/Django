@@ -55,7 +55,7 @@ paramiko==1.7.7.1
 pexpect==2.4
 piston-mini-client==0.7.5
 pocketlint==0.5.31
-protobuf==2.4.1
+protobuf==3.18.3
 psycopg2==2.5
 pyOpenSSL==0.13
 pycrypto==2.6
